@@ -97,6 +97,6 @@ You can now create Grafana dashboards to visualize the metrics coming from Influ
 - **Telegraf isn't sending data**: Check the Telegraf logs (`docker-compose logs telegraf`) for errors related to configuration.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
